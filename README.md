@@ -1,4 +1,4 @@
-# Boilerplate Code for Django-React-PostgreSQL-Heroku App TEST
+# Boilerplate Code for Django-React-PostgreSQL-Heroku App
 
 ![Django Version](https://img.shields.io/badge/Django-4.0.3-green.svg)
 ![Python Version](https://img.shields.io/badge/Python-3.10.4-blue.svg)
